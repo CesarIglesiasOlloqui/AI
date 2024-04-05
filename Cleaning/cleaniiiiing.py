@@ -81,3 +81,5 @@ def clean_split_scale(X, y):
 
     # return cleaned, scaled and split data and the scaler
     return [X_train, y_train, X_test, y_test, X_cv,y_cv,scaler]
+
+print("cleaniiiiing.py loaded successfully!")
